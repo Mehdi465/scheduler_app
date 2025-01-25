@@ -1,0 +1,8 @@
+ Settings:
+    - colors
+    - langue
+    - automatic break each .. minutes
+
+- Pomodorro
+- Add automatic break
+- succes apres avoir termine des taches, animations cools
